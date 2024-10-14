@@ -11,9 +11,9 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickmurray78&show_icons=true&theme=dark&locale=en&layout=compact"    alt="patrickmurray78" /></p>
 
-- 💻 I’m currently working at [Cisco](https://www.cisco.com/) as a Software Engineering Intern.
+- 💻 I’m currently working at [Cisco](https://www.cisco.com/) as a Software Engineer.
 
-- 🎓 I recently graduated from Atlantic Technological University.
+- 🎓 I studied Atlantic Technological University.
 
 - 🌱 I’m currently learning about **Blockchain Development**.
 
