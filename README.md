@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paddy</h1>
-<h3 align="center">A graduate software developer from Ireland</h3>
+<h3 align="center">A software developer from Ireland</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/patrick-murray-ire/">
